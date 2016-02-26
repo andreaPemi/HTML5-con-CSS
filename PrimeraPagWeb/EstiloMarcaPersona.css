@@ -1,0 +1,38 @@
+body {
+    background-image: url("musica.jpg")
+
+
+}
+p{
+    color: blanchedalmond;
+    font-size:14pt ;
+
+    display: inline;
+}
+dl{
+    color: blanchedalmond;
+    margin-left: 45pt;
+
+}
+
+.ex2 {
+    background-image: url("foto1.jpeg");
+    background-size: cover;
+    height: 110px;
+    width: 300px;
+    margin: 10px 0;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.ex2:hover {
+    height: 133px;
+    width: 400px;
+    margin-left: -50px;
+}
+h3{
+    font-size:16pt ;
+
+}
